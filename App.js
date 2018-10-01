@@ -7,8 +7,6 @@
     cd <Project Name>
     npm start
 
-
-    gaand phad dunga
     Install Expo app and scan the QR code to view the app live.
 */
 
