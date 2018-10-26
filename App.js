@@ -34,6 +34,10 @@ export default class App extends React.Component {
         <Text>Hi this is my first React Native App.</Text>
         <Text>The counter's value is {this.state.counter}</Text>
         {this.text()}
+        <View>
+            <Button title="Jigme"/>
+            <Text>Hacktober</Text>    
+            </View>
       </View>
     );  // This needs to be called when you need to render your component on screen.
     // Source is a prop.
